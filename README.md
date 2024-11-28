@@ -1,3 +1,1 @@
-# ObserverPattern-Real-time-News-Subscription-Service
-
-# Real-time News Subscription Service
+# ObserverPattern_Real-time News Subscription Service
